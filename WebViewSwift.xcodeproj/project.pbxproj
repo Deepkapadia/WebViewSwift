@@ -14,6 +14,7 @@
 		22C5D0651ECF04AC00896E3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22C5D0631ECF04AC00896E3D /* LaunchScreen.storyboard */; };
 		22C5D0701ECF04AC00896E3D /* WebViewSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C5D06F1ECF04AC00896E3D /* WebViewSwiftTests.swift */; };
 		22C5D07B1ECF04AC00896E3D /* WebViewSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22C5D07A1ECF04AC00896E3D /* WebViewSwiftUITests.swift */; };
+		22C5D0891ECF057D00896E3D /* ENERGYSTAR.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 22C5D0881ECF057D00896E3D /* ENERGYSTAR.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		22C5D0761ECF04AC00896E3D /* WebViewSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebViewSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22C5D07A1ECF04AC00896E3D /* WebViewSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewSwiftUITests.swift; sourceTree = "<group>"; };
 		22C5D07C1ECF04AC00896E3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22C5D0881ECF057D00896E3D /* ENERGYSTAR.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ENERGYSTAR.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		22C5D0591ECF04AC00896E3D /* WebViewSwift */ = {
 			isa = PBXGroup;
 			children = (
+				22C5D0881ECF057D00896E3D /* ENERGYSTAR.pdf */,
 				22C5D05A1ECF04AC00896E3D /* AppDelegate.swift */,
 				22C5D05C1ECF04AC00896E3D /* ViewController.swift */,
 				22C5D05E1ECF04AC00896E3D /* Main.storyboard */,
@@ -235,6 +238,7 @@
 				22C5D0651ECF04AC00896E3D /* LaunchScreen.storyboard in Resources */,
 				22C5D0621ECF04AC00896E3D /* Assets.xcassets in Resources */,
 				22C5D0601ECF04AC00896E3D /* Main.storyboard in Resources */,
+				22C5D0891ECF057D00896E3D /* ENERGYSTAR.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
